@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.stylemixthemes.com	TRUE	/	FALSE	1999999999	__cfduid	dd839ca4797c8d406435ca9d7a703dab91604935100
+crypterio.stylemixthemes.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.coingecko.com	TRUE	/	FALSE	1999999999	__cfduid	ddb70260042d8714b5b6e1a56a6d800201604935106
+assets.coingecko.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+crypterio.stylemixthemes.com	TRUE	/	FALSE	1999999999	stm_post_watched	3701%2C3697%2C3694
+crypterio.stylemixthemes.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+

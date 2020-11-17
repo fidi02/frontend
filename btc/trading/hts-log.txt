@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Nov 2020 21:40:06 at https://www.indonez.com/html-demo/Profit/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.indonez.com/html-demo/Profit/ -O1 "C:\Users\mriam\OneDrive\Desktop\forex 4\btc\trading" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:40:07	Warning: 	Note: due to https://www.indonez.com remote robots.txt rules, links beginning with these path will be forbidden: /cgi-bin/ (see in the options to disable this)
+21:40:34	Warning: 	Retry after error 409 (Conflict) at link https://www.indonez.com/html-demo/Profit/contact.html (from https://www.indonez.com/html-demo/Profit/)
+21:40:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.indonez.com/html-demo/Profit/help-center.html (from https://www.indonez.com/html-demo/Profit/)
+21:40:38	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/fonts/fa-brands-400.eot (from https://www.indonez.com/html-demo/Profit/css/style.css)
+21:40:39	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/fonts/fa-brands-400.eot? (from https://www.indonez.com/html-demo/Profit/css/style.css)
+21:40:39	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/fonts/fa-brands-400.ttf (from https://www.indonez.com/html-demo/Profit/css/style.css)
+21:40:39	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/fonts/fa-brands-400.svg (from https://www.indonez.com/html-demo/Profit/css/style.css)
+21:40:39	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/fonts/fa-solid-900.eot (from https://www.indonez.com/html-demo/Profit/css/style.css)
+21:40:39	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/fonts/fa-solid-900.eot? (from https://www.indonez.com/html-demo/Profit/css/style.css)
+21:40:39	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/fonts/fa-solid-900.ttf (from https://www.indonez.com/html-demo/Profit/css/style.css)
+21:40:39	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/fonts/fa-solid-900.svg (from https://www.indonez.com/html-demo/Profit/css/style.css)
+21:40:39	Warning: 	Retry after error 409 (Conflict) at link https://www.indonez.com/html-demo/Profit/contact.html (from https://www.indonez.com/html-demo/Profit/)
+21:40:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.indonez.com/html-demo/Profit/img/in-testimoni-2.png (from https://www.indonez.com/html-demo/Profit/customers.html)
+21:40:40	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/constants.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+21:40:40	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/xhr.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+21:40:40	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/path=/ (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+21:40:40	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/GET (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+21:40:40	Error: 	"Not Found" (404) at link https://www.indonez.com/html-demo/Profit/lib/widget-management.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+21:40:40	Error: 	"Conflict" (409) after 2 retries at link https://www.indonez.com/html-demo/Profit/contact.html (from https://www.indonez.com/html-demo/Profit/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 seconds : 90 links scanned, 71 files written (2869267 bytes overall) [2557743 bytes received at 73078 bytes/sec], 521025 bytes transferred using HTTP compression in 30 files, ratio 23%, 9.0 requests per connection
+(14 errors, 5 warnings, 0 messages)

@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Nov 2020 16:18:18 at https://crypterio.stylemixthemes.com/purple/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://crypterio.stylemixthemes.com/purple/ -O1 "C:\Users\mriam\OneDrive\Desktop\forex 4\test1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:18:32	Error: 	"Method Not Allowed" (405) at link https://crypterio.stylemixthemes.com/purple/xmlrpc.php (from https://crypterio.stylemixthemes.com/purple/)
+16:18:44	Error: 	"Bad Request" (400) at link https://crypterio.stylemixthemes.com/purple/wp-admin/admin-ajax.php (from https://crypterio.stylemixthemes.com/purple/)
+16:18:44	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://crypterio.stylemixthemes.com/purple/)
+16:19:12	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=3821
+16:19:12	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=3821 to https://crypterio.stylemixthemes.com/purple/staff/gabriel-moulinou/
+16:19:18	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=461
+16:19:18	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=461 to https://crypterio.stylemixthemes.com/purple/staff/frederic-zanko/
+16:19:18	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=460
+16:19:18	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=460 to https://crypterio.stylemixthemes.com/purple/staff/katrina-tamburrano/
+16:19:19	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=459
+16:19:19	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=459 to https://crypterio.stylemixthemes.com/purple/staff/mark-kristof/
+16:19:19	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=458
+16:19:19	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=458 to https://crypterio.stylemixthemes.com/purple/staff/simon-kurvits/
+16:19:19	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=448
+16:19:19	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=448 to https://crypterio.stylemixthemes.com/purple/staff/angie-hunter/
+16:19:20	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=449
+16:19:20	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=449 to https://crypterio.stylemixthemes.com/purple/staff/terence-spencer/
+16:19:20	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=2059
+16:19:20	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=2059 to https://crypterio.stylemixthemes.com/purple/staff/mattias-christopher/
+16:19:21	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=4056
+16:19:21	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=4056 to https://crypterio.stylemixthemes.com/purple/staff/clark-sunguy/
+16:19:21	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=4054
+16:19:21	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=4054 to https://crypterio.stylemixthemes.com/purple/staff/marianna-kopli/
+16:19:21	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=4053
+16:19:21	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=4053 to https://crypterio.stylemixthemes.com/purple/staff/jack-cooking/
+16:19:22	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=3701
+16:19:22	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=3701 to https://crypterio.stylemixthemes.com/purple/2018/01/20/first-long-term-bitcoin-option-price-of-10000-launched-by-stmx/
+16:19:32	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=3697
+16:19:32	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=3697 to https://crypterio.stylemixthemes.com/purple/2018/01/20/stmx-dht-ico-risk-hedging-crypto-trading-for-investors/
+16:19:39	Warning: 	Moved Permanently for https://crypterio.stylemixthemes.com/purple/?p=3694
+16:19:39	Warning: 	File has moved from https://crypterio.stylemixthemes.com/purple/?p=3694 to https://crypterio.stylemixthemes.com/purple/2018/01/20/world-first-crypto-concert-to-be-performed-on-second-day-of-blockshow-usa-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 199 links scanned, 181 files written (35429296 bytes overall) [7461085 bytes received at 92112 bytes/sec], 33042659 bytes transferred using HTTP compression in 113 files, ratio 14%, 12.2 requests per connection
+(3 errors, 28 warnings, 0 messages)
